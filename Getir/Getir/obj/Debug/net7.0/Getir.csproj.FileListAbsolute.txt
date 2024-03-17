@@ -1,0 +1,15 @@
+/Users/efe/Projects/Getir/Getir/bin/Debug/net7.0/Getir
+/Users/efe/Projects/Getir/Getir/bin/Debug/net7.0/Getir.deps.json
+/Users/efe/Projects/Getir/Getir/bin/Debug/net7.0/Getir.runtimeconfig.json
+/Users/efe/Projects/Getir/Getir/bin/Debug/net7.0/Getir.dll
+/Users/efe/Projects/Getir/Getir/bin/Debug/net7.0/Getir.pdb
+/Users/efe/Projects/Getir/Getir/obj/Debug/net7.0/Getir.csproj.AssemblyReference.cache
+/Users/efe/Projects/Getir/Getir/obj/Debug/net7.0/Getir.GeneratedMSBuildEditorConfig.editorconfig
+/Users/efe/Projects/Getir/Getir/obj/Debug/net7.0/Getir.AssemblyInfoInputs.cache
+/Users/efe/Projects/Getir/Getir/obj/Debug/net7.0/Getir.AssemblyInfo.cs
+/Users/efe/Projects/Getir/Getir/obj/Debug/net7.0/Getir.csproj.CoreCompileInputs.cache
+/Users/efe/Projects/Getir/Getir/obj/Debug/net7.0/Getir.dll
+/Users/efe/Projects/Getir/Getir/obj/Debug/net7.0/refint/Getir.dll
+/Users/efe/Projects/Getir/Getir/obj/Debug/net7.0/Getir.pdb
+/Users/efe/Projects/Getir/Getir/obj/Debug/net7.0/Getir.genruntimeconfig.cache
+/Users/efe/Projects/Getir/Getir/obj/Debug/net7.0/ref/Getir.dll
